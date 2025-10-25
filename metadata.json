@@ -1,0 +1,5 @@
+{
+  "name": "WhyJosh JD-to-PDF Generator",
+  "description": "A web application that takes a job description and generates a personalized PDF brief using Gemini, with a Node.js backend and React frontend.",
+  "requestFramePermissions": []
+}
